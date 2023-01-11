@@ -2,7 +2,7 @@
   
   
   <a href="https://www.linkedin.com/in/brandon-kinal-463a8b219/">Cybersecurity Professional</a>
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Portfolio:</h2>
 
 - <b>Windows Security/Active Directory</b>
   - [Windows Server Installation/Configuration](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
