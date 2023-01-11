@@ -31,6 +31,34 @@
   - [Amazon Security Groups](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [AWS Organizations Configuration](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [AWS WAF Configuration](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Linux Security</b>
+  - [Static and Dynamic IP Configuration](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Install and Configure Apache](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [AWS WAF Configuration](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Service Debugging](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Install and Configur Samba](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Securing Services](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Bash Scripting](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [File Integrity Monitoring](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Scripting for Security](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Configuring an Allow List](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [IP Lockout](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [SSL Encryption](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Network Security</b>
+  - [Traffic Investigation](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Layer 3 Mitigation](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Advanced Network Analysis](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Exttracting Files](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Network Monitoring](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [pfSense Rule Configuration](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Port Forwarding](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [IPSec Configuration](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [OpenVPN Configuration](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Configuring SNMP](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Nagios Installation & Configuration](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Suricata Installation](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Anomally Detection](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  
 
 <h2>📺 Popular YouTube Videos</h2>
 
