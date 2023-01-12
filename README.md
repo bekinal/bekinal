@@ -5,7 +5,7 @@
 <h2>👨‍💻 Portfolio:</h2>
 
 - <b>Windows Security/Active Directory</b>
-  - [Windows Server Installation/Configuration](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Windows Server Installation/Configuration](https://github.com/bekinal/Windows-Server-Installation-Configuration/blob/main/README.md)
   - [Configuring DNS](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Creating & Managing Active Directory Objects](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Group Policy Object Configuration](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
