@@ -7,7 +7,7 @@
 - <b>Windows Security/Active Directory</b>
   - [Windows Server Installation/Configuration](https://github.com/bekinal/Windows-Server-Installation-Configuration/blob/main/README.md)
   - [Configuring DNS](https://github.com/bekinal/Configuring-DNS/blob/main/README.md)
-  - [Creating & Managing Active Directory Objects](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Creating & Managing Active Directory Objects](https://github.com/bekinal/Creating-and-Managing-AD-Objects/blob/main/README.md)
   - [Group Policy Object Configuration](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Implementing DHCP](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [PowerShell for Active Directory](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
