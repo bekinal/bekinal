@@ -11,7 +11,7 @@
   - [Group Policy Object Configuration](https://github.com/bekinal/Group-Policy-Object-Configuration/blob/main/README.md)
   - [Implementing DHCP](https://github.com/bekinal/Implementing-DHCP/blob/main/README.md)
   - [PowerShell for Active Directory/Remote Connection](https://github.com/bekinal/PowerShell-for-Active-Directory/blob/main/README.md)
-  - [Shares and Permissions](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Shares and Permissions](https://github.com/bekinal/Shares-and-Permissions/blob/main/README.md)
   - [Configuring Windows Firewall](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [User Password Policies](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Handling Local Security Policies](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
