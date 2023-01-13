@@ -10,7 +10,7 @@
   - [Creating & Managing Active Directory Objects](https://github.com/bekinal/Creating-and-Managing-AD-Objects/blob/main/README.md)
   - [Group Policy Object Configuration](https://github.com/bekinal/Group-Policy-Object-Configuration/blob/main/README.md)
   - [Implementing DHCP](https://github.com/bekinal/Implementing-DHCP/blob/main/README.md)
-  - [PowerShell for Active Directory/Remote Connection](https://github.com/bekinal/PowerShell-for-Active-Directory/edit/main/README.md)
+  - [PowerShell for Active Directory/Remote Connection](https://github.com/bekinal/PowerShell-for-Active-Directory/blob/main/README.md)
   - [Shares and Permissions](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Configuring Windows Firewall](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [User Password Policies](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
