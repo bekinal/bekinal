@@ -13,7 +13,7 @@
   - [PowerShell for Active Directory/Remote Connection](https://github.com/bekinal/PowerShell-for-Active-Directory/blob/main/README.md)
   - [Shares and Permissions](https://github.com/bekinal/Shares-and-Permissions/blob/main/README.md)
   - [Configuring Windows Firewall](https://github.com/bekinal/Configuring-Windows-Firewall/blob/main/README.md)
-  - [User Password Policies](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [User Password Policies](https://github.com/bekinal/User-Password-Policies)
   - [Handling Local Security Policies](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Audit Policies](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Networking</b>
