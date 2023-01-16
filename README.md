@@ -17,7 +17,7 @@
   - [Handling Local Security Policies](https://github.com/bekinal/User-Password-Policies/blob/main/README.md)
   - [Audit Policies](https://github.com/bekinal/Audit-Policies)
 - <b>Networking</b>
-  - [Local Area Network Configuration](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Local Area Network Configuration](https://github.com/bekinal/Local-Area-Network-Configuration/blob/main/README.md)
   - [Network Examination with Wireshark](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Backing up Config Files and Managing the IOS](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Remote Access with SSH](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
