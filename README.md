@@ -15,7 +15,7 @@
   - [Configuring Windows Firewall](https://github.com/bekinal/Configuring-Windows-Firewall/blob/main/README.md)
   - [User Password Policies](https://github.com/bekinal/User-Password-Policies)
   - [Handling Local Security Policies](https://github.com/bekinal/User-Password-Policies/blob/main/README.md)
-  - [Audit Policies](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Audit Policies](https://github.com/bekinal/Audit-Policies)
 - <b>Networking</b>
   - [Local Area Network Configuration](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Network Examination with Wireshark](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
