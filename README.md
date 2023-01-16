@@ -22,7 +22,7 @@
   - [Backing up Config Files and Managing the IOS](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Remote Access with SSH](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Configuring IPv6 Addressing](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [IPv4 and IPv6 Static Routing](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
   - [Configuring & Verifying OSPFv2](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Configuring NTP and Syslog](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Configuring DHCPv4 on a Cisco Router](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
