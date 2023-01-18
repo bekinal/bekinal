@@ -21,7 +21,7 @@
   - [Network Examination with Wireshark](https://github.com/bekinal/Network-Examination-with-Wireshark/blob/main/README.md)
   - [Backing up Config Files and Managing the IOS](https://github.com/bekinal/Backing-Up-Config-Files-and-Managing-the-IOS/blob/main/README.md)
   - [Remote Access with SSH](https://github.com/bekinal/Remote-Access-with-SSH/blob/main/README.md)
-  - [Configuring IPv6 Addressing](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Configuring IPv6 Addressing](https://github.com/bekinal/Configuring-IPv6-Addressing-/blob/main/README.md)
   - [Configuring & Verifying OSPFv2](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Configuring NTP and Syslog](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Configuring DHCPv4 on a Cisco Router](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
