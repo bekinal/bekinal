@@ -22,7 +22,7 @@
   - [Backing up Config Files and Managing the IOS](https://github.com/bekinal/Backing-Up-Config-Files-and-Managing-the-IOS/blob/main/README.md)
   - [Remote Access with SSH](https://github.com/bekinal/Remote-Access-with-SSH/blob/main/README.md)
   - [Configuring IPv6 Addressing](https://github.com/bekinal/Configuring-IPv6-Addressing-/blob/main/README.md)
-  - [Configuring & Verifying OSPFv2](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Configuring & Verifying OSPFv2](https://github.com/bekinal/Configuring-and-Verifying-OSPFv2/blob/main/README.md)
   - [Configuring NTP and Syslog](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Configuring DHCPv4 on a Cisco Router](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>AWS Cloud</b>
