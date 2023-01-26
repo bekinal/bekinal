@@ -24,7 +24,7 @@
   - [Configuring IPv6 Addressing](https://github.com/bekinal/Configuring-IPv6-Addressing-/blob/main/README.md)
   - [Configuring & Verifying OSPFv2](https://github.com/bekinal/Configuring-and-Verifying-OSPFv2/blob/main/README.md)
   - [Configuring NTP and Syslog](https://github.com/bekinal/Configuring-NTP-and-Syslog/blob/main/README.md)
-  - [Configuring DHCPv4 on a Cisco Router](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Configuring DHCPv4 on a Cisco Router](https://github.com/bekinal/Configuring-DHCPv4-on-a-Cisco-Router/blob/main/README.md)
 - <b>AWS Cloud</b>
   - [AWS Instance Setup](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [AWS Billing Alert](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
