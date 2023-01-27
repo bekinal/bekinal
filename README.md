@@ -27,7 +27,7 @@
   - [Configuring DHCPv4 on a Cisco Router](https://github.com/bekinal/Configuring-DHCPv4-on-a-Cisco-Router/blob/main/README.md)
 - <b>AWS Cloud</b>
   - [AWS Instance Setup](https://github.com/bekinal/AWS-Instance-Setup/blob/main/README.md)
-  - [AWS Billing Alert](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [AWS Billing Alert](https://github.com/bekinal/AWS-Billing-Alert/blob/main/README.md)
   - [AWS IAM Implementation](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Creating a Virtual Appliance](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Amazon Security Groups](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
