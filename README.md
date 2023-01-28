@@ -29,7 +29,7 @@
   - [AWS Instance Setup](https://github.com/bekinal/AWS-Instance-Setup/blob/main/README.md)
   - [AWS Billing Alert](https://github.com/bekinal/AWS-Billing-Alert/blob/main/README.md)
   - [AWS IAM Implementation](https://github.com/bekinal/AWS-IAM-Implementation/blob/main/README.md)
-  - [Creating a Virtual Appliance](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Creating a Virtual Appliance](https://github.com/bekinal/Creating-a-Virtual-Appliance/blob/main/README.md)
   - [Amazon Security Groups](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [AWS Organizations Configuration](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [AWS WAF Configuration](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
