@@ -35,7 +35,7 @@
   - [AWS WAF Configuration](https://github.com/bekinal/AWS-WAF-Configuration/blob/main/README.md)
 - <b>Linux Security</b>
   - [Creating Users](https://github.com/bekinal/Creating-Users/blob/main/README.md)
-  - [The Power of SUID](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [The Power of SUID](https://github.com/bekinal/The-Power-of-SUID/blob/main/README.md)
   - [Static and Dynamic IP Configuration](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [System Update and Upgrade](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Install and Configure Apache](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
