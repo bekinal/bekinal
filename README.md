@@ -43,7 +43,7 @@
   - [Install and Configure Samba](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Securing Services](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Bash Scripting](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Compression and Backup](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Scripting for Compression and Backup](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [File Integrity Monitoring](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Scripting for Security](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Encrypt Grub & System](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
