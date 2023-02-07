@@ -39,7 +39,6 @@
   - [Static and Dynamic IP Configuration](https://github.com/bekinal/Static-and-Dynamic-IP-Configuration/blob/main/README.md)
   - [System Update and Upgrade](https://github.com/bekinal/System-Update-and-Upgrade/blob/main/README.md)
   - [Install and Configure Apache](https://github.com/bekinal/Install-and-Configure-Apache/blob/main/README.md)
-  - [Service Debugging](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Install and Configure Samba](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Securing Services](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Bash Scripting](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
