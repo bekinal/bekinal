@@ -40,7 +40,7 @@
   - [System Update and Upgrade](https://github.com/bekinal/System-Update-and-Upgrade/blob/main/README.md)
   - [Install and Configure Apache](https://github.com/bekinal/Install-and-Configure-Apache/blob/main/README.md)
   - [Install and Configure Samba](https://github.com/bekinal/Install-and-Configure-Samba/blob/main/README.md)
-  - [Securing Services]()
+  - [Securing Services](https://github.com/bekinal/Securing-Services/blob/main/README.md)
   - [Bash Scripting]()
   - [Scripting for Compression and Backup]()
   - [File Integrity Monitoring]()
