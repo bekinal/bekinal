@@ -37,7 +37,7 @@
   - [Creating Users](https://github.com/bekinal/Creating-Users/blob/main/README.md)
   - [The Power of SUID](https://github.com/bekinal/The-Power-of-SUID/blob/main/README.md)
   - [Static and Dynamic IP Configuration](https://github.com/bekinal/Static-and-Dynamic-IP-Configuration/blob/main/README.md)
-  - [System Update and Upgrade](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [System Update and Upgrade](https://github.com/bekinal/System-Update-and-Upgrade/blob/main/README.md)
   - [Install and Configure Apache](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Service Debugging](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Install and Configure Samba](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
