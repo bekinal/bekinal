@@ -39,56 +39,34 @@
   - [Static and Dynamic IP Configuration](https://github.com/bekinal/Static-and-Dynamic-IP-Configuration/blob/main/README.md)
   - [System Update and Upgrade](https://github.com/bekinal/System-Update-and-Upgrade/blob/main/README.md)
   - [Install and Configure Apache](https://github.com/bekinal/Install-and-Configure-Apache/blob/main/README.md)
-  - [Install and Configure Samba](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Securing Services](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Bash Scripting](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Scripting for Compression and Backup](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [File Integrity Monitoring](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Scripting for Security](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Encrypt Grub & System](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [PAM Authentication Features](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Cron Security Vulnerability](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Configuring an Allow List](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [IP Lockout](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [SSL Encryption](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Install and Configure Samba](https://github.com/bekinal/Install-and-Configure-Samba/blob/main/README.md)
+  - [Securing Services]()
+  - [Bash Scripting]()
+  - [Scripting for Compression and Backup]()
+  - [File Integrity Monitoring]()
+  - [Scripting for Security]()
+  - [Encrypt Grub & System]()
+  - [PAM Authentication Features]()
+  - [Cron Security Vulnerability]()
+  - [Configuring an Allow List]()
+  - [IP Lockout]()
+  - [SSL Encryption]()
 - <b>Network Security</b>
-  - [Traffic Investigation](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Layer 3 Mitigation](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Advanced Network Analysis](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Exttracting Files](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Network Monitoring](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [pfSense Rule Configuration](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Port Forwarding](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [IPSec Configuration](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [OpenVPN Configuration](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Configuring SNMP](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Nagios Installation & Configuration](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Suricata Installation](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Anomally Detection](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Traffic Investigation]()
+  - [Layer 3 Mitigation]()
+  - [Advanced Network Analysis]()
+  - [Exttracting Files]()
+  - [Network Monitoring]()
+  - [pfSense Rule Configuration]()
+  - [Port Forwarding]()
+  - [IPSec Configuration]()
+  - [OpenVPN Configuration]()
+  - [Configuring SNMP]()
+  - [Nagios Installation & Configuration]()
+  - [Suricata Installation]()
+  - [Anomally Detection]()
   
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
