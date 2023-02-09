@@ -46,7 +46,7 @@
   - [File Integrity Monitoring](https://github.com/bekinal/File-Integrity-Monitoring/blob/main/README.md)
   - [Scripting for Security](https://github.com/bekinal/Scripting-for-Security/blob/main/README.md)
   - [Encrypt Grub & System](https://github.com/bekinal/Encrypt-Grub-System/blob/main/README.md)
-  - [PAM Authentication Features]()
+  - [PAM Authentication Features](https://github.com/bekinal/PAM-Authentication-Features)
   - [Cron Security Vulnerability]()
   - [Configuring an Allow List]()
   - [IP Lockout]()
