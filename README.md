@@ -43,7 +43,7 @@
   - [Securing Services](https://github.com/bekinal/Securing-Services/blob/main/README.md)
   - [Bash Scripting](https://github.com/bekinal/Bash-Scripting)
   - [Scripting for Compression and Backup](https://github.com/bekinal/Scripting-for-Compression-and-Backup)
-  - [File Integrity Monitoring]()
+  - [File Integrity Monitoring](https://github.com/bekinal/File-Integrity-Monitoring/blob/main/README.md)
   - [Scripting for Security]()
   - [Encrypt Grub & System]()
   - [PAM Authentication Features]()
