@@ -45,7 +45,7 @@
   - [Scripting for Compression and Backup](https://github.com/bekinal/Scripting-for-Compression-and-Backup)
   - [File Integrity Monitoring](https://github.com/bekinal/File-Integrity-Monitoring/blob/main/README.md)
   - [Scripting for Security](https://github.com/bekinal/Scripting-for-Security/blob/main/README.md)
-  - [Encrypt Grub & System]()
+  - [Encrypt Grub & System](https://github.com/bekinal/Encrypt-Grub-System/blob/main/README.md)
   - [PAM Authentication Features]()
   - [Cron Security Vulnerability]()
   - [Configuring an Allow List]()
