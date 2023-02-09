@@ -42,7 +42,7 @@
   - [Install and Configure Samba](https://github.com/bekinal/Install-and-Configure-Samba/blob/main/README.md)
   - [Securing Services](https://github.com/bekinal/Securing-Services/blob/main/README.md)
   - [Bash Scripting](https://github.com/bekinal/Bash-Scripting)
-  - [Scripting for Compression and Backup]()
+  - [Scripting for Compression and Backup](https://github.com/bekinal/Scripting-for-Compression-and-Backup)
   - [File Integrity Monitoring]()
   - [Scripting for Security]()
   - [Encrypt Grub & System]()
