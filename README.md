@@ -41,7 +41,7 @@
   - [Install and Configure Apache](https://github.com/bekinal/Install-and-Configure-Apache/blob/main/README.md)
   - [Install and Configure Samba](https://github.com/bekinal/Install-and-Configure-Samba/blob/main/README.md)
   - [Securing Services](https://github.com/bekinal/Securing-Services/blob/main/README.md)
-  - [Bash Scripting]()
+  - [Bash Scripting](https://github.com/bekinal/Bash-Scripting)
   - [Scripting for Compression and Backup]()
   - [File Integrity Monitoring]()
   - [Scripting for Security]()
