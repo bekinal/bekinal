@@ -1,7 +1,7 @@
 <h1>Hello, I'm Brandon! 
   
   
-  <a href="https://www.linkedin.com/in/brandon-kinal-463a8b219/">Cybersecurity Professional</a>
+  <a href="https://www.linkedin.com/in/brandon-kinal-463a8b219/">Information Technology Professional</a>
 <h2>👨‍💻 Portfolio is a work in progress that is updated daily!</h2>
 
 - <b>Windows Security/Active Directory</b>
