@@ -2,7 +2,7 @@
   
   
   <a href="https://www.linkedin.com/in/brandon-kinal-463a8b219/">Information Technology Professional</a>
-<h2>👨‍💻 Portfolio is a work in progress that is updated daily!</h2>
+<h2>👨‍💻 Portfolio is a work in progress that is updated daily</h2>
 
 - <b>Windows Security/Active Directory</b>
   - [Windows Server Installation/Configuration](https://github.com/bekinal/Windows-Server-Installation-Configuration/blob/main/README.md)
