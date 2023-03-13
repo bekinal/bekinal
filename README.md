@@ -47,24 +47,7 @@
   - [Scripting for Security](https://github.com/bekinal/Scripting-for-Security/blob/main/README.md)
   - [Encrypt Grub & System](https://github.com/bekinal/Encrypt-Grub-System/blob/main/README.md)
   - [PAM Authentication Features](https://github.com/bekinal/PAM-Authentication-Features)
-  - [Cron Security Vulnerability]()
-  - [Configuring an Allow List]()
-  - [IP Lockout]()
-  - [SSL Encryption]()
-- <b>Network Security</b>
-  - [Traffic Investigation]()
-  - [Layer 3 Mitigation]()
-  - [Advanced Network Analysis]()
-  - [Exttracting Files]()
-  - [Network Monitoring]()
-  - [pfSense Rule Configuration]()
-  - [Port Forwarding]()
-  - [IPSec Configuration]()
-  - [OpenVPN Configuration]()
-  - [Configuring SNMP]()
-  - [Nagios Installation & Configuration]()
-  - [Suricata Installation]()
-  - [Anomally Detection]()
+  
   
 <!--
 
