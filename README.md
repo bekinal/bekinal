@@ -10,20 +10,9 @@ System administration and security configuration labs that reflect my ability to
 ## [Networking](https://github.com/bekinal/Networking/blob/main/README.md)  
 This lab series highlights my **hands-on experience with configuring, analyzing, and securing enterprise network infrastructure**. These skills allow me to **detect abnormal network behavior**, identify misconfigurations, and understand how attacks propagate through network layers — all essential for effective threat detection and incident response.
 
+## [AWS Cloud Basics & Security](https://github.com/bekinal/AWS-Cloud-Basics-Security-/edit/main/README.md)
+This section highlights my hands-on experience deploying and securing cloud resources in AWS. With cloud adoption continuing to accelerate, SOC Analysts are increasingly expected to understand cloud-native infrastructure, IAM, billing controls, and perimeter defenses. These labs demonstrate my ability to build, monitor, and defend cloud environments — preparing me for real-world detection and response scenarios in the cloud.
 
-
-
----
-
-
-- <b>AWS Cloud</b>
-  - [AWS Instance Setup](https://github.com/bekinal/AWS-Instance-Setup/blob/main/README.md)
-  - [AWS Billing Alert](https://github.com/bekinal/AWS-Billing-Alert/blob/main/README.md)
-  - [AWS IAM Implementation](https://github.com/bekinal/AWS-IAM-Implementation/blob/main/README.md)
-  - [Creating a Virtual Appliance](https://github.com/bekinal/Creating-a-Virtual-Appliance/blob/main/README.md)
-  - [Amazon Security Groups](https://github.com/bekinal/Amazon-Security-Groups/blob/main/README.md)
-  - [AWS Organizations Configuration](https://github.com/bekinal/AWS-Organizations-Configuration/blob/main/README.md)
-  - [AWS WAF Configuration](https://github.com/bekinal/AWS-WAF-Configuration/blob/main/README.md)
 - <b>Linux Security</b>
   - [Creating Users](https://github.com/bekinal/Creating-Users/blob/main/README.md)
   - [The Power of SUID](https://github.com/bekinal/The-Power-of-SUID/blob/main/README.md)
