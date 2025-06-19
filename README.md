@@ -27,6 +27,14 @@ This lab collection demonstrates my ability to secure, audit, and automate Linux
 
 ---
 
+<details>
+  <summary><strong>Malware Analysis</strong></summary>
+
+[Windows Security & Active Directory](https://github.com/bekinal/Windows-Security-Active-Directory)
+
+<details>
+  <summary><strong>SIEM</strong></summary>
+
 <!--
 
 Here are some ideas to get you started:
