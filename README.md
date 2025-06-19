@@ -1,30 +1,21 @@
-<h1>Hello, I'm Brandon! 
-  
-  
-  <a href="https://www.linkedin.com/in/brandon-kinal-463a8b219/">Information Technology Professional</a>
-<h2>👨‍💻 Portfolio is a work in progress that is updated daily</h2>
+# Hello, I'm Brandon!
 
-- <b>Windows Security/Active Directory</b>
-  - [Windows Server Installation/Configuration](https://github.com/bekinal/Windows-Server-Installation-Configuration/blob/main/README.md)
-  - [Configuring DNS](https://github.com/bekinal/Configuring-DNS/blob/main/README.md)
-  - [Creating & Managing Active Directory Objects](https://github.com/bekinal/Creating-and-Managing-AD-Objects/blob/main/README.md)
-  - [Group Policy Object Configuration](https://github.com/bekinal/Group-Policy-Object-Configuration/blob/main/README.md)
-  - [Implementing DHCP](https://github.com/bekinal/Implementing-DHCP/blob/main/README.md)
-  - [PowerShell for Active Directory/Remote Connection](https://github.com/bekinal/PowerShell-for-Active-Directory/blob/main/README.md)
-  - [Shares and Permissions](https://github.com/bekinal/Shares-and-Permissions/blob/main/README.md)
-  - [Configuring Windows Firewall](https://github.com/bekinal/Configuring-Windows-Firewall/blob/main/README.md)
-  - [User Password Policies](https://github.com/bekinal/User-Password-Policies)
-  - [Handling Local Security Policies](https://github.com/bekinal/User-Password-Policies/blob/main/README.md)
-  - [Audit Policies](https://github.com/bekinal/Audit-Policies)
-- <b>Networking</b>
-  - [Local Area Network Configuration](https://github.com/bekinal/Local-Area-Network-Configuration/blob/main/README.md)
-  - [Network Examination with Wireshark](https://github.com/bekinal/Network-Examination-with-Wireshark/blob/main/README.md)
-  - [Backing up Config Files and Managing the IOS](https://github.com/bekinal/Backing-Up-Config-Files-and-Managing-the-IOS/blob/main/README.md)
-  - [Remote Access with SSH](https://github.com/bekinal/Remote-Access-with-SSH/blob/main/README.md)
-  - [Configuring IPv6 Addressing](https://github.com/bekinal/Configuring-IPv6-Addressing-/blob/main/README.md)
-  - [Configuring & Verifying OSPFv2](https://github.com/bekinal/Configuring-and-Verifying-OSPFv2/blob/main/README.md)
-  - [Configuring NTP and Syslog](https://github.com/bekinal/Configuring-NTP-and-Syslog/blob/main/README.md)
-  - [Configuring DHCPv4 on a Cisco Router](https://github.com/bekinal/Configuring-DHCPv4-on-a-Cisco-Router/blob/main/README.md)
+[Information Technology Professional](https://www.linkedin.com/in/brandon-kinal-463a8b219/)  
+Aspiring SOC Analyst | Blue Team Focus | SQL | Incident Response  
+Portfolio is a **work in progress** and updated **daily**
+
+## [Windows Security & Active Directory](https://github.com/bekinal/Windows-Security-Active-Directory)  
+System administration and security configuration labs that reflect my ability to **manage, harden, and monitor enterprise Windows environments** — critical skills for SOC Analysts working in real-world infrastructures, especially in AD-heavy corporate networks.
+
+## [Networking](https://github.com/bekinal/Networking/blob/main/README.md)  
+This lab series highlights my **hands-on experience with configuring, analyzing, and securing enterprise network infrastructure**. These skills allow me to **detect abnormal network behavior**, identify misconfigurations, and understand how attacks propagate through network layers — all essential for effective threat detection and incident response.
+
+
+
+
+---
+
+
 - <b>AWS Cloud</b>
   - [AWS Instance Setup](https://github.com/bekinal/AWS-Instance-Setup/blob/main/README.md)
   - [AWS Billing Alert](https://github.com/bekinal/AWS-Billing-Alert/blob/main/README.md)
