@@ -1,8 +1,10 @@
-# Hello, I'm Brandon!
+Hey, I’m Brandon — a tech enthusiast on a mission to break into cybersecurity as a SOC Analyst. My background is in application support, incident response, and solving complex issues under pressure. Over time, I found myself drawn to the blue team side of security — digging into alerts, tracing unusual behavior, and figuring out how systems get compromised.
 
-[Information Technology Professional](https://www.linkedin.com/in/brandon-kinal-463a8b219/)  
-Aspiring SOC Analyst | Blue Team Focus | SQL | Incident Response  
-Portfolio is a **work in progress** and updated **daily**
+This GitHub is where I’m documenting everything I’m learning: from setting up Windows and Linux environments to writing detection rules and analyzing network traffic. I’m building out a portfolio that reflects how I think, what I know, and how I approach problem-solving in real-world scenarios.
+
+If you’re on a similar path — or just curious — feel free to explore the labs, reach out, or connect with me on [LinkedIn](https://www.linkedin.com/in/brandon-kinal-463a8b219/)
+
+Happy hunting. 
 
 ---
 
