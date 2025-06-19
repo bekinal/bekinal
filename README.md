@@ -47,6 +47,8 @@
   - [Scripting for Security](https://github.com/bekinal/Scripting-for-Security/blob/main/README.md)
   - [Encrypt Grub & System](https://github.com/bekinal/Encrypt-Grub-System/blob/main/README.md)
   - [PAM Authentication Features](https://github.com/bekinal/PAM-Authentication-Features)
+- <b>FlareVM</b>
+  - [Installing FlareVM on a Windows Enterprise Box](https://github.com/bekinal/Creating-Users/blob/main/README.md)
   
   
 <!--
