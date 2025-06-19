@@ -4,6 +4,8 @@
 Aspiring SOC Analyst | Blue Team Focus | SQL | Incident Response  
 Portfolio is a **work in progress** and updated **daily**
 
+---
+
 <details>
   <summary><strong>The Basics</strong></summary>
 
@@ -21,6 +23,9 @@ This lab collection demonstrates my ability to secure, audit, and automate Linux
 
 </details>
 
+This section covers key labs in Windows security, networking, AWS cloud basics, and Linux system hardening. These projects demonstrate my skills in managing and securing IT environments, forming a strong foundation for SOC Analyst roles focused on threat detection and incident response.
+
+---
 
 <!--
 
