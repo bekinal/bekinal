@@ -36,7 +36,7 @@ This lab collection demonstrates my ability to secure, audit, and automate Linux
   <summary><strong>Lab Collections</strong></summary>
 
 <!-- Add your malware analysis content here -->
-Coming soon: Labs focused on dynamic and static malware analysis using FLARE VM, Wireshark, and custom sandbox environments.
+[Installing FlareVM to a Windows Machine](https://github.com/bekinal/Setting-up-a-FlareVM-Box)
 
 </details>
 
