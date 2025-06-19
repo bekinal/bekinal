@@ -6,11 +6,11 @@ Portfolio is a **work in progress** and updated **daily**
 
 ---
 
+### The Basics
 This section covers key labs in Windows security, networking, AWS cloud basics, and Linux system hardening. These projects demonstrate my skills in managing and securing IT environments, forming a strong foundation for SOC Analyst roles focused on threat detection and incident response.
 
-
 <details>
-  <summary><strong>The Basics</strong></summary>
+  <summary><strong>Lab Collections</strong></summary>
 
 ## [Windows Security & Active Directory](https://github.com/bekinal/Windows-Security-Active-Directory)  
 System administration and security configuration labs that reflect my ability to **manage, harden, and monitor enterprise Windows environments** — critical skills for SOC Analysts working in real-world infrastructures, especially in AD-heavy corporate networks.
@@ -26,17 +26,24 @@ This lab collection demonstrates my ability to secure, audit, and automate Linux
 
 </details>
 
+---
+
+### Malware Analysis
 
 <details>
-  <summary><strong>Malware Analysis</strong></summary>
+  <summary><strong>Lab Collections</strong></summary>
 
 <!-- Add your malware analysis content here -->
 Coming soon: Labs focused on dynamic and static malware analysis using FLARE VM, Wireshark, and custom sandbox environments.
 
 </details>
 
+---
+
+### SIEM/SOAR
+
 <details>
-  <summary><strong>SIEM</strong></summary>
+  <summary><strong>Lab Collections</strong></summary>
 
 <!-- Add your SIEM content here -->
 Coming soon: Labs involving SIEM configuration, log ingestion, alert tuning, and incident triage with platforms like Splunk and Wazuh.
