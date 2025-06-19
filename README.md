@@ -9,7 +9,7 @@ Happy hunting.
 ---
 
 ### The Basics
-This section covers key labs in Windows security, networking, AWS cloud basics, and Linux system hardening. These projects demonstrate my skills in managing and securing IT environments, forming a strong foundation for SOC Analyst roles focused on threat detection and incident response.
+This section covers key labs in Windows security, networking, AWS cloud basics, and Linux system hardening. These projects demonstrate my skills in managing and securing IT environments, forming a strong foundation for SOC Analyst roles focused on threat detection and incident response. This section is fairly large, so I broke it down into collections for ease of access. 
 
 <details>
   <summary><strong>Lab Collections</strong></summary>
