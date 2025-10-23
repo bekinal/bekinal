@@ -1,10 +1,23 @@
-Hey, I’m Brandon — a tech enthusiast looking to break into cybersecurity as a SOC Analyst. My background is in application support, incident response, and solving complex issues under pressure. Over time, I found myself drawn to the blue team side of security — digging into alerts, tracing unusual behavior, and figuring out how systems get compromised.
+Hey, I’m Brandon — an aspiring AWS Cloud Engineer with a background in Technical Support and Incident Response. I’ve spent the past few years working in SaaS environments — managing hosted applications, troubleshooting complex issues, and learning how cloud infrastructure supports reliable, scalable systems.
 
-This GitHub is where I’m documenting everything I’m learning: from setting up Windows and Linux environments to writing detection rules and analyzing network traffic. I’m building out a portfolio that reflects how I think, what I know, and how I approach problem-solving in real-world scenarios.
+Over time, I’ve become passionate about cloud architecture and automation — building, securing, and optimizing environments that help applications run smoothly at scale.
 
-If you’re on a similar path — or just curious — feel free to explore the labs, reach out, or connect with me on [LinkedIn](https://www.linkedin.com/in/brandon-kinal-463a8b219/)
+This GitHub is where I document what I’m learning as I transition into cloud engineering — from:
 
-Happy hunting. 
+Deploying and managing resources with Terraform and CloudFormation
+
+Automating builds and deployments with CI/CD pipelines
+
+Working with AWS services like EC2, S3, Lambda, CloudFront, and DynamoDB
+
+Designing secure, cost-efficient cloud architectures
+
+I’m building a portfolio that reflects how I think, what I know, and how I approach problem-solving in real-world AWS environments.
+
+If you’re on a similar journey — or just curious — feel free to explore my projects, reach out, or connect with me on LinkedIn
+. [LinkedIn](https://www.linkedin.com/in/brandon-kinal-463a8b219/)
+
+Feel free to check out my AWS hosted portfolio [here!](https://resume.brandonkinalcloud.com)
 
 ---
 
@@ -29,29 +42,6 @@ This lab collection demonstrates my ability to secure, audit, and automate Linux
 </details>
 
 ---
-
-### Malware Analysis
-
-<details>
-  <summary><strong>Lab Collections</strong></summary>
-
-<!-- Add your malware analysis content here -->
-[Installing FlareVM to a Windows Machine](https://github.com/bekinal/Setting-up-a-FlareVM-Box)
-
-</details>
-
----
-
-### SIEM/SOAR
-
-<details>
-  <summary><strong>Lab Collections</strong></summary>
-
-<!-- Add your SIEM content here -->
-Coming soon: Labs involving SIEM configuration, log ingestion, alert tuning, and incident triage with platforms like Splunk and Wazuh.
-
-</details>
-
 <!--
 
 Here are some ideas to get you started:
