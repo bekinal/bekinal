@@ -17,7 +17,9 @@ I’m building a portfolio that reflects how I think, what I know, and how I app
 If you’re on a similar journey — or just curious — feel free to explore my projects, reach out, or connect with me on LinkedIn
 . [LinkedIn](https://www.linkedin.com/in/brandon-kinal-463a8b219/)
 
-Feel free to check out my AWS hosted portfolio [here!](https://resume.brandonkinalcloud.com)
+Below is a collection of a few labs I completed when first beginning my career in IT. Having a strong foundation is fundamental in an evolving career path. Feel free to take a look!
+
+A majority of my cloud-based projects will be documented on my AWS hosted portfolio [here!](https://resume.brandonkinalcloud.com)
 
 ---
 
